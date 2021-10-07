@@ -4,7 +4,6 @@ namespace App\Tests\ValueObject\Entity;
 
 
 use App\Entity\Product1;
-use App\Repository\Product1Repository;
 use App\ValueObject\Money;
 use Doctrine\Common\DataFixtures\Purger\ORMPurger;
 use Doctrine\ORM\EntityManagerInterface;

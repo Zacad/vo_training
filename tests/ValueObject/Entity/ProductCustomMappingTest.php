@@ -2,7 +2,6 @@
 
 namespace App\Tests\ValueObject\Entity;
 
-use App\Entity\Product1;
 use App\Entity\ProductCustomMapping;
 use App\ValueObject\Money;
 use Doctrine\Common\DataFixtures\Purger\ORMPurger;
