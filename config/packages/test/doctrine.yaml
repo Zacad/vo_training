@@ -1,0 +1,3 @@
+doctrine:
+  dbal:
+    url: "mysql://vo:password@db:3306/vo_test?serverVersion=8"
